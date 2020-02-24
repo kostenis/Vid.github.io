@@ -11,7 +11,7 @@ Syntax highlighted code block
 
 # Tennis player
 ## Catawba College student
-### Graphical deisgn artist
+### Graphical design artist
 
 - Bulleted
 - List
